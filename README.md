@@ -41,9 +41,6 @@
 <br>
 </br>
 
-[![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=XshubhamX&show_icons=true?hide=prs,issues&count_private=true?theme=radical)](https://github.com/XshubhamX/github-readme-stats)
-
-
 [website]: https://shubhambhardwaj.live/
 [instagram]: https://www.instagram.com/_shubham.x/
 [linkedin]: https://www.linkedin.com/in/shubham-bhardwaj-94a571192/
