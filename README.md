@@ -1,7 +1,7 @@
 ### Hi there, I'm Shubham Bhardwaj  👋
 
 [![Website](https://img.shields.io/static/v1?label=Portfolio&message=SHUBHAMBHARDWAJ.LIVE&color=red??style=for-the-badge&logo=appveyor)](https://shubhambhardwaj.live)
-## I'm a Full stack Developer 🚀
+## Full stack Developer 🚀
 
 
 - 🌱 I’m currently working on GraphQL Api Development
