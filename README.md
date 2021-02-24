@@ -4,7 +4,7 @@
 ## Full stack Developer 🚀
 
 
-- 🌱 I’m currently working on GraphQL Api Development using MongoDB Database
+- 🌱 I’m currently working on GraphQL Api Development in typescript 👍
 - 👯 I’m looking to collaborate with other passionate JavaScript and TypeScript developers.🚀
 - 🥅 2021 Goals: Get Arctic Code Vault Contributor Badge ✔
 
