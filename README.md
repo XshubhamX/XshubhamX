@@ -1,14 +1,12 @@
-### Hi there, I'm Shubham Bhardwaj  👋
+### 👋
 
 [![Website](https://img.shields.io/static/v1?label=Portfolio&message=SHUBHAMBHARDWAJ.LIVE&color=red??style=for-the-badge&logo=appveyor)](https://shubhambhardwaj.live)
-## Full stack Developer 🚀
+## Software Developer 🚀
 
 
-- 🌱 I’m currently working on GraphQL Api Development in typescript 👍
-- 👯 I’m looking to collaborate with other passionate JavaScript and TypeScript developers.🚀
-- 🥅 2021 Goals: Get Arctic Code Vault Contributor Badge ✔
-
-### Spotify Playing 🎧
+- Currently working on GraphQL Api Development ✔
+- I’m looking to collaborate with other passionate JavaScript and TypeScript developers ✔
+- 2021 Goals: Get Arctic Code Vault Contributor Badge ✔
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/7qZlvp1F537sdjGdIB7R4j?si=gK4ZJOZWTZu9Ul_po-STlQ)
 
