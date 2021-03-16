@@ -10,8 +10,8 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/7qZlvp1F537sdjGdIB7R4j?si=gK4ZJOZWTZu9Ul_po-STlQ)
 
-<script type="text/javascript" src="https://www.brainyquote.com/link/quotebr.js"></script>
-<small><i><a href="/quote_of_the_day" target="_blank" rel="nofollow">more Quotes</a></i></small>
+[<script type="text/javascript" src="https://www.brainyquote.com/link/quotebr.js"></script>
+<small><i><a href="/quote_of_the_day" target="_blank" rel="nofollow">more Quotes</a></i></small>]
 
 ### Connect with me:
 
