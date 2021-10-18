@@ -8,8 +8,6 @@
 - I’m looking to collaborate with other passionate JavaScript and TypeScript developers ✔
 - 2021 Goals: Contribute more to open-source projects ✔
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/7qZlvp1F537sdjGdIB7R4j?si=gK4ZJOZWTZu9Ul_po-STlQ)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  style = "color:#d4af37"/>][linkedin]
