@@ -1,15 +1,6 @@
 ### 👋
 
-[![Website](https://img.shields.io/static/v1?label=Portfolio&message=SHUBHAMBHARDWAJ.LIVE&color=red??style=for-the-badge&logo=appveyor)](https://shubhambhardwaj.live)
-## Software Developer 🚀
-
-
-- Currently working on GraphQL Api Development ✔
-- I’m looking to collaborate with other passionate JavaScript and TypeScript developers ✔
-- 2021 Goals: Contribute more to open-source projects ✔
-
-<br>
-<br>
+## Software Developer x Part time open sourcer
 
 ### 🔨 Languages and Tools
 
