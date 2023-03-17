@@ -1,6 +1,4 @@
-### 👋
-
-## Software Developer x Part time open sourcer
+## Software Developer x Part time open sourcer 👋
 
 ### 🔨 Languages and Tools
 
